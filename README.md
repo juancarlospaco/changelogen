@@ -61,3 +61,10 @@ $
 - `filename`  string, output filename for your Changelog, eg `"changelog.md"`.
 - `categories` string, comma separated values, categories for your Changelog,
   eg `"adds,removes,breaks,fixes"` or `"core,wip,backward_compatibility,bugs"`.
+
+
+# FAQ
+
+- Why not just use Git Commits to make the Changelog?.
+
+https://keepachangelog.com
