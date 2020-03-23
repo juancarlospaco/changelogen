@@ -57,7 +57,7 @@ $
 # Defines
 
 - `userRepo` string, GitHub User/Repo for your Changelog, eg `"nim-lang/Nim"`.
-- `mainBranch` string, GitHub User/Repo for your Changelog, eg `"devel"`.
-- `filename`  string, GitHub User/Repo for your Changelog, eg `"changelog.md"`.
+- `mainBranch` string, GitHub main Branch for your Changelog, eg `"devel"`.
+- `filename`  string, output filename for your Changelog, eg `"changelog.md"`.
 - `categories` string, comma separated values, categories for your Changelog,
   eg `"adds,removes,breaks,fixes"` or `"core,wip,backward_compatibility,bugs"`.
