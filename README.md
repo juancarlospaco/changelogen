@@ -1,2 +1,3 @@
-# changelog
-Conflict-less Changelog.md generator with categories for Nim
+# ChangeloGen
+
+- Conflict-less `changelog.md` generator with categories for Nim.
